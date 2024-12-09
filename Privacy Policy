@@ -1,0 +1,15 @@
+Privacy Policy
+
+Welcome to Simple Note Android App! 
+This is an Android application which provides the functionality to take notes either by writing or speaking. The application is made to be simple and inclusive without advertisements or in-app purchases, so it maximises accessibility and productivity.
+
+1. Data collected by the app
+We hereby state, to the best of our knowledge, we do not intent to collect any of your personal information, however be aware that the app uses the third-party speech recognition services which may collect, store or send data to external third-party remote servers.
+
+2. How the app works?
+The text that you write is encrypted and stored locally on your device. The app uses third-party services for speech recognition. For the speech recognition functionality the application includes the following permissions:
+"android.permission.RECORD_AUDIO" : This allows the application to record audio.
+"android.permission.INTERNET" : This allows the applications to open network sockets.
+
+3. Contact Information
+For inquiries about this Privacy Policy, please contact info.developmentapp@gmail.com.
